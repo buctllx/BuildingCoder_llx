@@ -1,0 +1,23 @@
+xml 上传路径： /static/upload/项目uuid/成果 uuid/
+
+结束打开连接：/estimate/index/projectuuid_成果uuid
+'/estimate/index_notify/ftp/企业ID_项目ID_成果ID/文件名'
+
+
+http://172.16.12.238:6543/estimate/index/111_222
+
+倒数第二 成果Id；
+      三 项目Id；
+
+ftp://10.0.35.100/tool/
+10.0.35.100
+admin
+123456
+/tool
+
+CORP_FTP_HOST = '172.16.11.235'
+CORP_FTP_PORT = 21
+CORP_FTP_USER = 'xtpt_tool_family'
+CORP_FTP_PSWD = '123456'
+楚鹅  19:08:22
+http://172.16.11.149:6545/estimate/index/111_222
